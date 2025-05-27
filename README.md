@@ -1,3 +1,3 @@
-# gitTeam_test
-
-### Read Me 파일 생성
+def subtract(a, b):
+    try:
+        return a - b
